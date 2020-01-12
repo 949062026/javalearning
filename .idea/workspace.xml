@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="afeb8ef3-42f1-4b77-9ae3-512d11978fe6" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SequenceInputStreamDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="uml://JAVA/java.util.ArrayList">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>java.util.ArrayList</OriginalElement>
+              <nodes>
+                <node x="321.0" y="234.0">java.util.RandomAccess</node>
+                <node x="657.5" y="156.0">java.util.List</node>
+                <node x="429.5" y="156.0">java.util.AbstractCollection</node>
+                <node x="174.0" y="234.0">java.lang.Cloneable</node>
+                <node x="548.0" y="78.0">java.util.Collection</node>
+                <node x="495.0" y="234.0">java.util.AbstractList</node>
+                <node x="557.0" y="0.0">java.lang.Iterable</node>
+                <node x="334.5" y="312.0">java.util.ArrayList</node>
+                <node x="0.0" y="234.0">java.io.Serializable</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="java.util.ArrayList" target="java.lang.Cloneable">
+                  <point x="-25.399999999999977" y="-14.0" />
+                  <point x="372.6" y="282.0" />
+                  <point x="237.5" y="282.0" />
+                  <point x="0.0" y="14.0" />
+                </edge>
+                <edge source="java.util.ArrayList" target="java.util.RandomAccess">
+                  <point x="0.0" y="-14.0" />
+                  <point x="0.0" y="14.0" />
+                </edge>
+                <edge source="java.util.ArrayList" target="java.io.Serializable">
+                  <point x="-50.80000000000001" y="-14.0" />
+                  <point x="347.2" y="292.0" />
+                  <point x="77.0" y="292.0" />
+                  <point x="0.0" y="14.0" />
+                </edge>
+                <edge source="java.util.List" target="java.util.Collection">
+                  <point x="0.0" y="-14.0" />
+                  <point x="698.5" y="131.0" />
+                  <point x="650.0" y="131.0" />
+                  <point x="34.0" y="14.0" />
+                </edge>
+                <edge source="java.util.AbstractList" target="java.util.List">
+                  <point x="38.5" y="-14.0" />
+                  <point x="610.5" y="209.0" />
+                  <point x="678.0" y="209.0" />
+                  <point x="-20.5" y="14.0" />
+                </edge>
+                <edge source="java.util.Collection" target="java.lang.Iterable">
+                  <point x="0.0" y="-14.0" />
+                  <point x="0.0" y="14.0" />
+                </edge>
+                <edge source="java.util.AbstractList" target="java.util.AbstractCollection">
+                  <point x="-38.5" y="-14.0" />
+                  <point x="0.0" y="14.0" />
+                </edge>
+                <edge source="java.util.ArrayList" target="java.util.List">
+                  <point x="50.80000000000001" y="-14.0" />
+                  <point x="448.8" y="292.0" />
+                  <point x="719.0" y="292.0" />
+                  <point x="20.5" y="14.0" />
+                </edge>
+                <edge source="java.util.AbstractCollection" target="java.util.Collection">
+                  <point x="0.0" y="-14.0" />
+                  <point x="533.5" y="131.0" />
+                  <point x="582.0" y="131.0" />
+                  <point x="-34.0" y="14.0" />
+                </edge>
+                <edge source="java.util.ArrayList" target="java.util.AbstractList">
+                  <point x="25.399999999999977" y="-14.0" />
+                  <point x="423.4" y="282.0" />
+                  <point x="572.0" y="282.0" />
+                  <point x="0.0" y="14.0" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.0" x="90.5" y="20.5" />
+              <SelectedNodes />
+              <Categories />
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="uml://JAVA/java.util.HashMap">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>java.util.HashMap</OriginalElement>
+              <nodes>
+                <node x="340.0" y="78.0">java.lang.Cloneable</node>
+                <node x="174.00000000000003" y="78.0">java.util.AbstractMap</node>
+                <node x="259.45833333333337" y="0.0">java.util.Map</node>
+                <node x="233.50000000000003" y="156.0">java.util.HashMap</node>
+                <node x="0.0" y="78.0">java.io.Serializable</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="java.util.HashMap" target="java.util.Map">
+                  <point x="13.625" y="-14.0" />
+                  <point x="301.62500000000006" y="126.0" />
+                  <point x="329.50000000000006" y="126.0" />
+                  <point x="329.50000000000006" y="53.0" />
+                  <point x="314.20833333333337" y="53.0" />
+                  <point x="18.25" y="14.0" />
+                </edge>
+                <edge source="java.util.HashMap" target="java.lang.Cloneable">
+                  <point x="40.875" y="-14.0" />
+                  <point x="328.87500000000006" y="136.0" />
+                  <point x="403.5" y="136.0" />
+                  <point x="0.0" y="14.0" />
+                </edge>
+                <edge source="java.util.HashMap" target="java.util.AbstractMap">
+                  <point x="-13.625" y="-14.0" />
+                  <point x="274.37500000000006" y="126.0" />
+                  <point x="246.50000000000003" y="126.0" />
+                  <point x="0.0" y="14.0" />
+                </edge>
+                <edge source="java.util.AbstractMap" target="java.util.Map">
+                  <point x="0.0" y="-14.0" />
+                  <point x="246.50000000000003" y="53.0" />
+                  <point x="277.70833333333337" y="53.0" />
+                  <point x="-18.25" y="14.0" />
+                </edge>
+                <edge source="java.util.HashMap" target="java.io.Serializable">
+                  <point x="-40.875" y="-14.0" />
+                  <point x="247.12500000000003" y="136.0" />
+                  <point x="77.0" y="136.0" />
+                  <point x="0.0" y="14.0" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.0" x="-46.0" y="-57.5" />
+              <SelectedNodes>
+                <node>java.util.Map</node>
+              </SelectedNodes>
+              <Categories />
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="uml://JAVA/java.lang.IndexOutOfBoundsException">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>java.lang.IndexOutOfBoundsException</OriginalElement>
+              <nodes>
+                <node x="72.0" y="78.0">java.lang.Throwable</node>
+                <node x="0.0" y="312.0">java.lang.IndexOutOfBoundsException</node>
+                <node x="40.5" y="234.0">java.lang.RuntimeException</node>
+                <node x="72.0" y="156.0">java.lang.Exception</node>
+                <node x="58.5" y="0.0">java.io.Serializable</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="java.lang.RuntimeException" target="java.lang.Exception">
+                  <point x="0.0" y="-14.0" />
+                  <point x="0.0" y="14.0" />
+                </edge>
+                <edge source="java.lang.IndexOutOfBoundsException" target="java.lang.RuntimeException">
+                  <point x="0.0" y="-14.0" />
+                  <point x="0.0" y="14.0" />
+                </edge>
+                <edge source="java.lang.Exception" target="java.lang.Throwable">
+                  <point x="0.0" y="-14.0" />
+                  <point x="0.0" y="14.0" />
+                </edge>
+                <edge source="java.lang.Throwable" target="java.io.Serializable">
+                  <point x="0.0" y="-14.0" />
+                  <point x="0.0" y="14.0" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.0" x="-144.0" y="20.5" />
+              <SelectedNodes>
+                <node>java.lang.RuntimeException</node>
+              </SelectedNodes>
+              <Categories />
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="uml://JAVA/java.io.FileNotFoundException">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>java.io.FileNotFoundException</OriginalElement>
+              <nodes>
+                <node x="54.0" y="78.0">java.lang.Throwable</node>
+                <node x="45.0" y="234.0">java.io.IOException</node>
+                <node x="54.0" y="156.0">java.lang.Exception</node>
+                <node x="0.0" y="312.0">java.io.FileNotFoundException</node>
+                <node x="40.5" y="0.0">java.io.Serializable</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="java.io.FileNotFoundException" target="java.io.IOException">
+                  <point x="0.0" y="-14.0" />
+                  <point x="0.0" y="14.0" />
+                </edge>
+                <edge source="java.lang.Exception" target="java.lang.Throwable">
+                  <point x="0.0" y="-14.0" />
+                  <point x="0.0" y="14.0" />
+                </edge>
+                <edge source="java.lang.Throwable" target="java.io.Serializable">
+                  <point x="0.0" y="-14.0" />
+                  <point x="0.0" y="14.0" />
+                </edge>
+                <edge source="java.io.IOException" target="java.lang.Exception">
+                  <point x="0.0" y="-14.0" />
+                  <point x="0.0" y="14.0" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.0" x="-162.0" y="20.5" />
+              <SelectedNodes>
+                <node>java.io.FileNotFoundException</node>
+              </SelectedNodes>
+              <Categories />
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/OutOfMemoryError.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="40" column="23" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="uml://JAVA/java.lang.OutOfMemoryError">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>java.lang.OutOfMemoryError</OriginalElement>
+              <nodes>
+                <node x="45.0" y="78.0">java.lang.Throwable</node>
+                <node x="0.0" y="234.0">java.lang.VirtualMachineError</node>
+                <node x="63.0" y="156.0">java.lang.Error</node>
+                <node x="13.5" y="312.0">java.lang.OutOfMemoryError</node>
+                <node x="31.5" y="0.0">java.io.Serializable</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="java.lang.Error" target="java.lang.Throwable">
+                  <point x="0.0" y="-14.0" />
+                  <point x="0.0" y="14.0" />
+                </edge>
+                <edge source="java.lang.OutOfMemoryError" target="java.lang.VirtualMachineError">
+                  <point x="0.0" y="-14.0" />
+                  <point x="0.0" y="14.0" />
+                </edge>
+                <edge source="java.lang.Throwable" target="java.io.Serializable">
+                  <point x="0.0" y="-14.0" />
+                  <point x="0.0" y="14.0" />
+                </edge>
+                <edge source="java.lang.VirtualMachineError" target="java.lang.Error">
+                  <point x="0.0" y="-14.0" />
+                  <point x="0.0" y="14.0" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.0" x="108.5" y="33.5" />
+              <SelectedNodes>
+                <node>java.lang.Error</node>
+              </SelectedNodes>
+              <Categories />
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/A.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/A.java" />
+        <option value="$PROJECT_DIR$/src/B.java" />
+        <option value="$PROJECT_DIR$/src/C.java" />
+        <option value="$PROJECT_DIR$/A.java" />
+        <option value="$PROJECT_DIR$/B.java" />
+        <option value="$PROJECT_DIR$/src/SequenceInputStreamDemo.java" />
+        <option value="$PROJECT_DIR$/src/SequenceInputStreamDemo2.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode001.java" />
+        <option value="$PROJECT_DIR$/src/AException.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="javalearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javalearning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javalearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javalearning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javalearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SequenceInputStreamDemo2">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="javalearning" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SequenceInputStreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SequenceInputStreamDemo" />
+      <module name="javalearning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SequenceInputStreamDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SequenceInputStreamDemo2" />
+      <module name="javalearning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.SequenceInputStreamDemo" />
+      <item itemvalue="Application.SequenceInputStreamDemo2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SequenceInputStreamDemo2" />
+        <item itemvalue="Application.SequenceInputStreamDemo" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="afeb8ef3-42f1-4b77-9ae3-512d11978fe6" name="Default Changelist" comment="" />
+      <created>1576758132919</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576758132919</updated>
+      <workItem from="1576758137196" duration="4171000" />
+      <workItem from="1578226934928" duration="410000" />
+      <workItem from="1578832298221" duration="2448000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7029000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329927" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.19562043" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/B.java" />
+    <entry file="file://$PROJECT_DIR$/src/C.java" />
+    <entry file="file://$PROJECT_DIR$/B.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A.java" />
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="2" column="42" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SequenceInputStreamDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/OutOfMemoryError.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="40" column="23" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.lang.IndexOutOfBoundsException">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.lang.IndexOutOfBoundsException</OriginalElement>
+          <nodes>
+            <node x="72.0" y="78.0">java.lang.Throwable</node>
+            <node x="0.0" y="312.0">java.lang.IndexOutOfBoundsException</node>
+            <node x="40.5" y="234.0">java.lang.RuntimeException</node>
+            <node x="72.0" y="156.0">java.lang.Exception</node>
+            <node x="58.5" y="0.0">java.io.Serializable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.lang.RuntimeException" target="java.lang.Exception">
+              <point x="0.0" y="-14.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+            <edge source="java.lang.IndexOutOfBoundsException" target="java.lang.RuntimeException">
+              <point x="0.0" y="-14.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+            <edge source="java.lang.Exception" target="java.lang.Throwable">
+              <point x="0.0" y="-14.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+            <edge source="java.lang.Throwable" target="java.io.Serializable">
+              <point x="0.0" y="-14.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-144.0" y="20.5" />
+          <SelectedNodes>
+            <node>java.lang.RuntimeException</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.io.FileNotFoundException">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.io.FileNotFoundException</OriginalElement>
+          <nodes>
+            <node x="54.0" y="78.0">java.lang.Throwable</node>
+            <node x="45.0" y="234.0">java.io.IOException</node>
+            <node x="54.0" y="156.0">java.lang.Exception</node>
+            <node x="0.0" y="312.0">java.io.FileNotFoundException</node>
+            <node x="40.5" y="0.0">java.io.Serializable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.io.FileNotFoundException" target="java.io.IOException">
+              <point x="0.0" y="-14.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+            <edge source="java.lang.Exception" target="java.lang.Throwable">
+              <point x="0.0" y="-14.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+            <edge source="java.lang.Throwable" target="java.io.Serializable">
+              <point x="0.0" y="-14.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+            <edge source="java.io.IOException" target="java.lang.Exception">
+              <point x="0.0" y="-14.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-162.0" y="20.5" />
+          <SelectedNodes>
+            <node>java.io.FileNotFoundException</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.HashMap">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.HashMap</OriginalElement>
+          <nodes>
+            <node x="340.0" y="78.0">java.lang.Cloneable</node>
+            <node x="174.00000000000003" y="78.0">java.util.AbstractMap</node>
+            <node x="259.45833333333337" y="0.0">java.util.Map</node>
+            <node x="233.50000000000003" y="156.0">java.util.HashMap</node>
+            <node x="0.0" y="78.0">java.io.Serializable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.util.HashMap" target="java.util.Map">
+              <point x="13.625" y="-14.0" />
+              <point x="301.62500000000006" y="126.0" />
+              <point x="329.50000000000006" y="126.0" />
+              <point x="329.50000000000006" y="53.0" />
+              <point x="314.20833333333337" y="53.0" />
+              <point x="18.25" y="14.0" />
+            </edge>
+            <edge source="java.util.HashMap" target="java.lang.Cloneable">
+              <point x="40.875" y="-14.0" />
+              <point x="328.87500000000006" y="136.0" />
+              <point x="403.5" y="136.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+            <edge source="java.util.HashMap" target="java.util.AbstractMap">
+              <point x="-13.625" y="-14.0" />
+              <point x="274.37500000000006" y="126.0" />
+              <point x="246.50000000000003" y="126.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+            <edge source="java.util.AbstractMap" target="java.util.Map">
+              <point x="0.0" y="-14.0" />
+              <point x="246.50000000000003" y="53.0" />
+              <point x="277.70833333333337" y="53.0" />
+              <point x="-18.25" y="14.0" />
+            </edge>
+            <edge source="java.util.HashMap" target="java.io.Serializable">
+              <point x="-40.875" y="-14.0" />
+              <point x="247.12500000000003" y="136.0" />
+              <point x="77.0" y="136.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-46.0" y="-57.5" />
+          <SelectedNodes>
+            <node>java.util.Map</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.ArrayList">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.ArrayList</OriginalElement>
+          <nodes>
+            <node x="321.0" y="234.0">java.util.RandomAccess</node>
+            <node x="657.5" y="156.0">java.util.List</node>
+            <node x="429.5" y="156.0">java.util.AbstractCollection</node>
+            <node x="174.0" y="234.0">java.lang.Cloneable</node>
+            <node x="548.0" y="78.0">java.util.Collection</node>
+            <node x="495.0" y="234.0">java.util.AbstractList</node>
+            <node x="557.0" y="0.0">java.lang.Iterable</node>
+            <node x="334.5" y="312.0">java.util.ArrayList</node>
+            <node x="0.0" y="234.0">java.io.Serializable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.util.ArrayList" target="java.lang.Cloneable">
+              <point x="-25.399999999999977" y="-14.0" />
+              <point x="372.6" y="282.0" />
+              <point x="237.5" y="282.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+            <edge source="java.util.ArrayList" target="java.util.RandomAccess">
+              <point x="0.0" y="-14.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+            <edge source="java.util.ArrayList" target="java.io.Serializable">
+              <point x="-50.80000000000001" y="-14.0" />
+              <point x="347.2" y="292.0" />
+              <point x="77.0" y="292.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+            <edge source="java.util.List" target="java.util.Collection">
+              <point x="0.0" y="-14.0" />
+              <point x="698.5" y="131.0" />
+              <point x="650.0" y="131.0" />
+              <point x="34.0" y="14.0" />
+            </edge>
+            <edge source="java.util.AbstractList" target="java.util.List">
+              <point x="38.5" y="-14.0" />
+              <point x="610.5" y="209.0" />
+              <point x="678.0" y="209.0" />
+              <point x="-20.5" y="14.0" />
+            </edge>
+            <edge source="java.util.Collection" target="java.lang.Iterable">
+              <point x="0.0" y="-14.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+            <edge source="java.util.AbstractList" target="java.util.AbstractCollection">
+              <point x="-38.5" y="-14.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+            <edge source="java.util.ArrayList" target="java.util.List">
+              <point x="50.80000000000001" y="-14.0" />
+              <point x="448.8" y="292.0" />
+              <point x="719.0" y="292.0" />
+              <point x="20.5" y="14.0" />
+            </edge>
+            <edge source="java.util.AbstractCollection" target="java.util.Collection">
+              <point x="0.0" y="-14.0" />
+              <point x="533.5" y="131.0" />
+              <point x="582.0" y="131.0" />
+              <point x="-34.0" y="14.0" />
+            </edge>
+            <edge source="java.util.ArrayList" target="java.util.AbstractList">
+              <point x="25.399999999999977" y="-14.0" />
+              <point x="423.4" y="282.0" />
+              <point x="572.0" y="282.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="90.5" y="20.5" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SequenceInputStreamDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode001.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.lang.OutOfMemoryError">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.lang.OutOfMemoryError</OriginalElement>
+          <nodes>
+            <node x="45.0" y="78.0">java.lang.Throwable</node>
+            <node x="0.0" y="234.0">java.lang.VirtualMachineError</node>
+            <node x="63.0" y="156.0">java.lang.Error</node>
+            <node x="13.5" y="312.0">java.lang.OutOfMemoryError</node>
+            <node x="31.5" y="0.0">java.io.Serializable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.lang.Error" target="java.lang.Throwable">
+              <point x="0.0" y="-14.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+            <edge source="java.lang.OutOfMemoryError" target="java.lang.VirtualMachineError">
+              <point x="0.0" y="-14.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+            <edge source="java.lang.Throwable" target="java.io.Serializable">
+              <point x="0.0" y="-14.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+            <edge source="java.lang.VirtualMachineError" target="java.lang.Error">
+              <point x="0.0" y="-14.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="108.5" y="33.5" />
+          <SelectedNodes>
+            <node>java.lang.Error</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
